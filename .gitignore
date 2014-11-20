@@ -14,3 +14,9 @@ target/
 .settings
 web-app/WEB-INF
 *.pom
+
+# IntelliJ IDE files
+*.iml
+*.ipr
+*.iws
+.idea
