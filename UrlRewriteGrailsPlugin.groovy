@@ -1,6 +1,6 @@
 class UrlRewriteGrailsPlugin {
 	def version = '1.0'
-	def grailsVersion = "2.0 > *"
+	def grailsVersion = "2.3 > *"
 	def title = "URL Rewrite Plugin"
 	def author = "Alex Anderson"
 	def authorEmail = ""
